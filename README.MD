@@ -1,0 +1,1 @@
+CognitoとRDSをLambdaを経由して連携させる関数です
